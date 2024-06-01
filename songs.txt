@@ -12,3 +12,12 @@
 9. Jailhouse Rock - Elvis Presley
 10. Like A Rolling Stone - Bob Dylan
 11. Hey Jude - Beatles
+
+#Below song will be committed on rock_songs branch in second Commit
+12. Good Vibrations - Beach Boys
+13. Tutti-Frutti - Little Richard
+14. What'd I Say - Ray Charles
+15. Hotel California - Eagles
+16. You've Lost That Lovin' Feelin' - Righteous Brothers
+17. My Girl - Temptations
+18. Imagine - John Lennon
